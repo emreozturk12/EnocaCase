@@ -1,12 +1,12 @@
-package com.example.enoca.Service;
+package com.example.EnocaCase.Service;
 
-import com.example.enoca.Model.Entity.Cart;
-import com.example.enoca.Model.Entity.OldPrices;
-import com.example.enoca.Model.Entity.Order;
-import com.example.enoca.Model.Entity.Product;
-import com.example.enoca.Repository.OldPricesRepository;
-import com.example.enoca.Repository.OrderRepository;
-import com.example.enoca.Repository.ProductRepository;
+import com.example.EnocaCase.Model.Entity.Cart;
+import com.example.EnocaCase.Model.Entity.OldPrices;
+import com.example.EnocaCase.Model.Entity.Order;
+import com.example.EnocaCase.Model.Entity.Product;
+import com.example.EnocaCase.Repository.OldPricesRepository;
+import com.example.EnocaCase.Repository.OrderRepository;
+import com.example.EnocaCase.Repository.ProductRepository;
 import org.springframework.stereotype.Service;
 
 import java.awt.print.Pageable;

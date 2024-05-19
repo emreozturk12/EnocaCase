@@ -1,6 +1,6 @@
-package com.example.enoca.Repository;
+package com.example.EnocaCase.Repository;
 
-import com.example.enoca.Model.Entity.Customer;
+import com.example.EnocaCase.Model.Entity.Customer;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface CustomerRepository extends JpaRepository<Customer, Integer> {

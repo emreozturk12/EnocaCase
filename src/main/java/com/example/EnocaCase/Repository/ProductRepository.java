@@ -1,6 +1,6 @@
-package com.example.enoca.Repository;
+package com.example.EnocaCase.Repository;
 
-import com.example.enoca.Model.Entity.Product;
+import com.example.EnocaCase.Model.Entity.Product;
 import jakarta.transaction.Transactional;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Modifying;

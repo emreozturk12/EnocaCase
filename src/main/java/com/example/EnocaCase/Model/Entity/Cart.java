@@ -1,4 +1,4 @@
-package com.example.enoca.Model.Entity;
+package com.example.EnocaCase.Model.Entity;
 
 import jakarta.persistence.OneToMany;
 import jakarta.persistence.OneToOne;

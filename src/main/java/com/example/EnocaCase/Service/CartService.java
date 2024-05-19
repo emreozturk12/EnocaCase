@@ -1,8 +1,8 @@
-package com.example.enoca.Service;
+package com.example.EnocaCase.Service;
 
-import com.example.enoca.Model.Entity.Cart;
-import com.example.enoca.Model.Entity.Product;
-import com.example.enoca.Repository.CartRepository;
+import com.example.EnocaCase.Model.Entity.Cart;
+import com.example.EnocaCase.Model.Entity.Product;
+import com.example.EnocaCase.Repository.CartRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.Optional;

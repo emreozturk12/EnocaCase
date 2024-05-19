@@ -1,6 +1,6 @@
-package com.example.enoca.Repository;
+package com.example.EnocaCase.Repository;
 
-import com.example.enoca.Model.Entity.OldPrices;
+import com.example.EnocaCase.Model.Entity.OldPrices;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface OldPricesRepository extends JpaRepository<OldPrices, Integer> {

@@ -1,7 +1,7 @@
-package com.example.enoca.Service;
+package com.example.EnocaCase.Service;
 
-import com.example.enoca.Model.Entity.Customer;
-import com.example.enoca.Repository.CustomerRepository;
+import com.example.EnocaCase.Model.Entity.Customer;
+import com.example.EnocaCase.Repository.CustomerRepository;
 import org.springframework.stereotype.Service;
 
 @Service

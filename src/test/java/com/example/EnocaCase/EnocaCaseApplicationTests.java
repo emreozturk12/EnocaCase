@@ -1,4 +1,4 @@
-package com.example.enoca;
+package com.example.EnocaCase;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
