@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>enoca</artifactId>
+	<artifactId>EnocaCase</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>EnocaCase</name>
 	<description>A Basic Project For Enoca</description>
